@@ -1,5 +1,6 @@
 var NAVTREEINDEX4 =
 {
+"da/d9a/class_graph.html#a6dc4dd4ce49c4052ad2a5d27523881f4":[7,0,19,12],
 "da/d9a/class_graph.html#a6dc4dd4ce49c4052ad2a5d27523881f4":[7,0,19,13],
 "da/d9a/class_graph.html#a73268574e2528b8e760191113ef6d1eb":[7,0,19,26],
 "da/d9a/class_graph.html#a8a34b80e2f3749992e0e9b83de742fba":[7,0,19,25],
@@ -36,8 +37,8 @@ var NAVTREEINDEX4 =
 "da/dd1/structquadratic__probing_1_1_entry.html":[7,0,8,0],
 "da/dd1/structquadratic__probing_1_1_entry.html#a75f72858f08a2fc8b94402de98db12d8":[7,0,8,0,1],
 "da/dd1/structquadratic__probing_1_1_entry.html#a9df1118010a233d13ab3dd699bcb513e":[7,0,8,0,0],
-"da/dd3/namespacespirograph.html":[6,0,32],
-"da/dd4/namespacemedian__search.html":[6,0,19],
+"da/dd3/namespacespirograph.html":[6,0,33],
+"da/dd4/namespacemedian__search.html":[6,0,20],
 "da/de7/decimal__to__hexadecimal_8cpp.html":[8,0,12,2],
 "da/de7/decimal__to__hexadecimal_8cpp.html#a840291bc02cba5474a4cb46a9b9566fe":[8,0,12,2,0],
 "da/df2/durand__kerner__roots_8cpp.html":[8,0,11,2],
@@ -80,7 +81,7 @@ var NAVTREEINDEX4 =
 "db/d66/struct_item.html":[7,0,21],
 "db/d66/struct_item.html#a05e743552459fc8c2abdc80a0f4f0b0a":[7,0,21,1],
 "db/d66/struct_item.html#a62e6c5a24f2618be18e46407857c98de":[7,0,21,0],
-"db/d6f/namespaceheavy__light__decomposition.html":[6,0,10],
+"db/d6f/namespaceheavy__light__decomposition.html":[6,0,11],
 "db/d71/quadratic__probing__hash__table_8cpp.html":[8,0,8,3],
 "db/d71/quadratic__probing__hash__table_8cpp.html#a00ebcc6d39653eccc26f8432efbfc8d9":[8,0,8,3,2],
 "db/d71/quadratic__probing__hash__table_8cpp.html#a07a0467b24102260fbb6b554c453c20a":[8,0,8,3,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX4 =
 "dd/d12/vigenere__cipher_8cpp.html#a3cfc3f9b20a0f230a2fcefd31dc6848e":[8,0,1,2,0],
 "dd/d12/vigenere__cipher_8cpp.html#a6bd3880ea6820c232c1eddf47553c257":[8,0,1,2,1],
 "dd/d12/vigenere__cipher_8cpp.html#ae1a3968e7947464bee7714f6d43b7002":[8,0,1,2,3],
-"dd/d12/vigenere__cipher_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,1,2,2],
-"dd/d1b/structquery.html":[7,0,31]
+"dd/d12/vigenere__cipher_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,1,2,2]
 };
