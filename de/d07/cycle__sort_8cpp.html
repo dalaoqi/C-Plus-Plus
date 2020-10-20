@@ -165,7 +165,7 @@ template&lt;typename T &gt; </div>
 </dl>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
-    <tr><td class="paramname">arr</td><td>array to be sorted </td></tr>
+    <tr><td class="paramname">in_arr</td><td>array to be sorted </td></tr>
   </table>
   </dd>
 </dl>
@@ -178,7 +178,7 @@ template&lt;typename T &gt; </div>
 <div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160; </div>
 <div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;        <span class="comment">// Count the number of elements smaller than item, this  number is the correct index of item.</span></div>
 <div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;        <span class="keywordtype">int</span> pos = cycle_start;</div>
-<div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;        <span class="keywordflow">for</span> (<span class="keywordtype">int</span> i = cycle_start + 1; i &lt; arr.size(); i++) {</div>
+<div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;        <span class="keywordflow">for</span> (<span class="keywordtype">size_t</span> i = cycle_start + 1; i &lt; arr.size(); i++) {</div>
 <div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;            <span class="keywordflow">if</span> (arr[i] &lt; item) {</div>
 <div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;                pos++;</div>
 <div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;            }</div>
