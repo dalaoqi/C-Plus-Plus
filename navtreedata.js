@@ -118,7 +118,7 @@ var NAVTREEINDEX =
 "d7/db9/hill__cipher_8cpp.html",
 "da/d9a/class_graph.html#a6dc4dd4ce49c4052ad2a5d27523881f4",
 "dd/d1b/structquery.html",
-"globals_defs.html"
+"globals_e.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

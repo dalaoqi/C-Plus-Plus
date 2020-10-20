@@ -71,9 +71,8 @@ var NAVTREEINDEX5 =
 "de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html#ad8c10df34357b2cd865c81e0c4f0bd8c":[7,0,4,0,0,1],
 "de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html#aefea7ee87a708298c486d5a38ac628ef":[7,0,4,0,0,4],
 "de/d07/cycle__sort_8cpp.html":[8,0,16,3],
-"de/d07/cycle__sort_8cpp.html#a4dfc730e3001a26ef78ec6582ad172f1":[8,0,16,3,0],
-"de/d07/cycle__sort_8cpp.html#a8d6922bfe887ca561f94558ac8cec3f6":[8,0,16,3,2],
-"de/d07/cycle__sort_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[8,0,16,3,3],
+"de/d07/cycle__sort_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[8,0,16,3,2],
+"de/d07/cycle__sort_8cpp.html#ad0cfe2e54b1d3f9d0ca648265d917c6a":[8,0,16,3,0],
 "de/d07/cycle__sort_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,16,3,1],
 "de/d0a/namespacemerge__insertion.html":[6,0,21],
 "de/d0d/fibonacci__search_8cpp.html":[8,0,15,2],
@@ -213,8 +212,8 @@ var NAVTREEINDEX5 =
 "dir_ece9b94c107bbaa1dd68197a8c9983b9.html":[8,0,8],
 "dir_f1797d0c2a0a12033e7d74efffeb14e1.html":[8,0,2,0],
 "files.html":[8,0],
-"functions.html":[7,3,0,0],
 "functions.html":[7,3,0],
+"functions.html":[7,3,0,0],
 "functions_a.html":[7,3,0,1],
 "functions_b.html":[7,3,0,2],
 "functions_c.html":[7,3,0,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX5 =
 "globals_a.html":[8,1,0,1],
 "globals_b.html":[8,1,0,2],
 "globals_c.html":[8,1,0,3],
-"globals_d.html":[8,1,0,4]
+"globals_d.html":[8,1,0,4],
+"globals_defs.html":[8,1,4]
 };
